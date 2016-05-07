@@ -29,14 +29,19 @@ h2 {
     margin-bottom: 10px;
     font-size: 25ppx;
 }
-p {
+.main-text {
     
     text-align: justify;
     margin-bottom: 20px;
     
 }
 
-
+.author-text{
+    font-size: 22px;
+    float: left;
+    margin-top: 35px;
+    margin-left: 10px;
+}
 
 .container {
     width: 1140px;
@@ -57,6 +62,8 @@ p {
 .other-posts {
     width: 25%;
     float: left;
+    margin-bottom: 40px;
+
 
 }
 
@@ -64,4 +71,16 @@ p {
     padding-top: 20px;
     border-top: 2px solid #988b8b;
 
+}
+
+.author-box img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    float: left;
+}
+
+.blog-post img{
+    height: 150px;
+    width: auto;
 }
