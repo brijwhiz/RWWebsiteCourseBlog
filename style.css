@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body {
+    font-size: 18px;
+    font-family: Helvetica Neue, Calibri;
+}
+
+h1, h2 {
+    color: green;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 40ppx;
+}
+
+h2 {
+    margin-bottom: 10px;
+    font-size: 25ppx;
+}
+p {
+    
+    text-align: justify;
+    margin-bottom: 20px;
+    
+}
+
